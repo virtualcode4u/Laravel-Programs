@@ -15,3 +15,7 @@
 ## Step 5 - Add Route
 
 ## Step 6 - Create View file
+
+## Output:-
+
+![image](https://user-images.githubusercontent.com/90952992/209433021-375a8634-53b3-4e95-8ee3-68900f6f8952.png)
