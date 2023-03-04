@@ -8,8 +8,7 @@
 </head>
 <body>
     <h1>{{ $mailData['title'] }}</h1>
-    <p>{{ $mailData['body'] }}</p>
-    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Unde repellendus tempora ipsa sunt, saepe deleniti distinctio rem nam voluptas blanditiis suscipit beatae eos eaque vitae tempore tenetur hic asperiores quae!</p>
-    <p>Thank you</p>
+    <h1>{{ $mailData['body'] }}</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, deserunt nisi consequatur itaque nobis quo quos iste accusamus praesentium in hic esse accusantium cum suscipit veritatis quaerat a officia ipsum.</p>
 </body>
 </html>
