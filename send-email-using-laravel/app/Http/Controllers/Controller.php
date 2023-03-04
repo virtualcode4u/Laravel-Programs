@@ -9,9 +9,4 @@ use Illuminate\Routing\Controller as BaseController;
 class Controller extends BaseController
 {
     use AuthorizesRequests, ValidatesRequests;
-    public function show()
-    {
-        $data = file_get_contents(base_path('/database/data.json'));
-        return json_decode($data);
-    }
 }

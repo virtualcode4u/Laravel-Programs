@@ -1,0 +1,393 @@
+{
+  "dashboard_title": [
+    {
+      "category": "Expenses & purchases",
+      "value": 1000000    },
+    {
+      "category": "TDS Deductible",
+      "value": 80000    },
+    {
+      "category": "TDS Deducted",
+      "value": 75000    },
+    {
+      "category": "TDS Deposited",
+      "value": 1000000    }
+  ],
+  "top_five_deductees": {
+    "company_name": [
+      "HCL Ltd",
+      "Asian Paints Ltd",
+      "XYZ Ltd",
+      "Reliance Ltd",
+      "ABC Ltd"    ],
+    "total_taxable_amount": [
+      36368,
+      56500,
+      25200,
+      20885,
+      19957    ],
+    "total_tax_deductible": [
+      41368,
+      23520,
+      12340,
+      20850,
+      17087    ],
+    "total_tax_deducted": [
+      36368,
+      56500,
+      12340,
+      65430,
+      21500    ],
+    "total_tax_deposited": [
+      28776,
+      42380,
+      45455,
+      45330,
+      16126    ],
+    "table_data": [
+      {
+        "name": "ABC Ltd",
+        "section": "195",
+        "total_taxable_amount": "4,500,000.00",
+        "total_tax_deductible": "1,872,000.00",
+        "total_tax_deducted": "1,800,000.00",
+        "total_tax_deposited": "1,500,000.00"
+      },
+      {
+        "name": "Asian Paints Ltd",
+        "section": "194H",
+        "total_taxable_amount": "4,500,000.00",
+        "total_tax_deductible": "1,872,000.00",
+        "total_tax_deducted": "1,800,000.00",
+        "total_tax_deposited": "1,500,000.00"
+      },
+      {
+        "name": "ABC Ltd",
+        "section": "195",
+        "total_taxable_amount": "4,500,000.00",
+        "total_tax_deductible": "1,872,000.00",
+        "total_tax_deducted": "1,800,000.00",
+        "total_tax_deposited": "1,500,000.00"
+      },
+      {
+        "name": "ABC Ltd",
+        "section": "195",
+        "total_taxable_amount": "4,500,000.00",
+        "total_tax_deductible": "1,872,000.00",
+        "total_tax_deducted": "1,800,000.00",
+        "total_tax_deposited": "1,500,000.00"
+      },
+      {
+        "name": "ABC Ltd",
+        "section": "195",
+        "total_taxable_amount": "4,500,000.00",
+        "total_tax_deductible": "1,872,000.00",
+        "total_tax_deducted": "1,800,000.00",
+        "total_tax_deposited": "1,500,000.00"
+      }
+    ]
+  },
+  "calender_event_data": {
+  },
+  "resident_deductee_master": [
+    {
+      "title": "Deductee Name",
+      "value": "500"    },
+    {
+      "title": "Pan Available",
+      "value": "500"    },
+    {
+      "title": "Pan / Aadhar link status",
+      "value": "500"    },
+    {
+      "title": "Specified person as per section 206AB",
+      "value": "500"    }
+  ],
+  "non_resident_deductee_master": [
+    {
+      "title": "Deductee Name",
+      "value": "500"    },
+    {
+      "title": "Pan Available",
+      "value": "500"    },
+    {
+      "title": "No PE Certificate Avaliable ?",
+      "value": "500"    },
+    {
+      "title": "TRC Certificate Avaliable ?",
+      "value": "500"    },
+    {
+      "title": "Form 10F Avaliable ?",
+      "value": "500"    }
+  ],
+  "section_wise_summary": {
+    "section": [
+      "195",
+      "194H",
+      "194j(b)",
+      "194C",
+      "195C",
+      "194J",
+      "195J",
+      "194j(a)"    ],
+    "total_tax_deductible": [
+      41368,
+      23520,
+      12340,
+      20850,
+      17087,
+      25200,
+      20885,
+      19957    ],
+    "total_tax_deducted": [
+      36368,
+      56500,
+      12340,
+      65430,
+      21500,
+      25200,
+      20885,
+      19957    ],
+    "total_tax_deposited": [
+      28776,
+      42380,
+      45455,
+      45330,
+      16126,
+      25200,
+      20885,
+      19957    ],
+    "table_data": [
+      {
+        "section": "195",
+        "rate": "41.60%",
+        "transaction": "257",
+        "total_taxable_amount": "4,500,000.00",
+        "total_tax_deductible": "1,872,000.00",
+        "total_tax_deducted": "1,800,000.00",
+        "total_tax_deducted_variance": "72,000.00",
+        "total_tax_deposited": "1,500,000.00",
+        "total_tax_deposited_variance": "30,000,00"      },
+      {
+        "section": "194H",
+        "rate": "41.60%",
+        "transaction": "257",
+        "total_taxable_amount": "4,500,000.00",
+        "total_tax_deductible": "1,872,000.00",
+        "total_tax_deducted": "1,800,000.00",
+        "total_tax_deducted_variance": "72,000.00",
+        "total_tax_deposited": "1,500,000.00",
+        "total_tax_deposited_variance": "30,000,00"      },
+      {
+        "section": "195",
+        "rate": "41.60%",
+        "transaction": "257",
+        "total_taxable_amount": "4,500,000.00",
+        "total_tax_deductible": "1,872,000.00",
+        "total_tax_deducted": "1,800,000.00",
+        "total_tax_deducted_variance": "72,000.00",
+        "total_tax_deposited": "1,500,000.00",
+        "total_tax_deposited_variance": "30,000,00"      },
+      {
+        "section": "195",
+        "rate": "41.60%",
+        "transaction": "257",
+        "total_taxable_amount": "4,500,000.00",
+        "total_tax_deductible": "1,872,000.00",
+        "total_tax_deducted": "1,800,000.00",
+        "total_tax_deducted_variance": "72,000.00",
+        "total_tax_deposited": "1,500,000.00",
+        "total_tax_deposited_variance": "30,000,00"      },
+      {
+        "section": "195",
+        "rate": "41.60%",
+        "transaction": "257",
+        "total_taxable_amount": "4,500,000.00",
+        "total_tax_deductible": "1,872,000.00",
+        "total_tax_deducted": "1,800,000.00",
+        "total_tax_deducted_variance": "72,000.00",
+        "total_tax_deposited": "1,500,000.00",
+        "total_tax_deposited_variance": "30,000,00"      }
+    ]
+  },
+  "monthly_payments": {
+    "month": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "April",
+      "May"    ],
+    "tds_payable": [
+      41368,
+      23520,
+      12340,
+      20850,
+      17087    ],
+    "interest_payable": [
+      36368,
+      56500,
+      12340,
+      65430,
+      21500    ],
+    "table_data": [
+      {
+        "month": "January",
+        "section": "195",
+        "tds_payable": "80,000",
+        "interest_payable": "5,000"      },
+      {
+        "month": "February",
+        "section": "195",
+        "tds_payable": "80,000",
+        "interest_payable": "5,000"      },
+      {
+        "month": "March",
+        "section": "195",
+        "tds_payable": "80,000",
+        "interest_payable": "5,000"      },
+      {
+        "month": "April",
+        "section": "195",
+        "tds_payable": "80,000",
+        "interest_payable": "5,000"      },
+      {
+        "month": "May",
+        "section": "195",
+        "tds_payable": "80,000",
+        "interest_payable": "5,000"      }
+    ]
+  },
+  "challan_summary": {
+    "month": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "April",
+      "May"    ],
+    "total_tds_payable": [
+      41368,
+      23520,
+      12340,
+      20850,
+      17087    ],
+    "total_tds_deposited": [
+      36368,
+      56500,
+      12340,
+      65430,
+      21500    ],
+    "total_tds_mapped": [
+      36368,
+      56500,
+      12340,
+      65430,
+      21500    ],
+    "unconsumed_amount": [
+      36368,
+      56500,
+      12340,
+      65430,
+      21500    ],
+    "table_data": [
+      {
+        "month": "January",
+        "section": "195",
+        "tds_payable": "80,000",
+        "total_tds_deposited": "5,000",
+        "total_tds_mapped": "4,000",
+        "unconsumed_amount": "1,000"      },
+      {
+        "month": "January",
+        "section": "195",
+        "tds_payable": "80,000",
+        "total_tds_deposited": "5,000",
+        "total_tds_mapped": "4,000",
+        "unconsumed_amount": "1,000"      },
+      {
+        "month": "January",
+        "section": "195",
+        "tds_payable": "80,000",
+        "total_tds_deposited": "5,000",
+        "total_tds_mapped": "4,000",
+        "unconsumed_amount": "1,000"      },
+      {
+        "month": "January",
+        "section": "195",
+        "tds_payable": "80,000",
+        "total_tds_deposited": "5,000",
+        "total_tds_mapped": "4,000",
+        "unconsumed_amount": "1,000"      },
+      {
+        "month": "January",
+        "section": "195",
+        "tds_payable": "80,000",
+        "total_tds_deposited": "5,000",
+        "total_tds_mapped": "4,000",
+        "unconsumed_amount": "1,000"      }
+    ]
+  },
+  "challan_verification_status": {
+    "month": [
+      "Jan 2022",
+      "Feb 2022",
+      "Mar 2022",
+      "April 2022",
+      "May 2022"    ],
+    "unutilised_amount_not_verified": [
+      41368,
+      23520,
+      12340,
+      20850,
+      17087    ],
+    "unutilised_amount_verified": [
+      36368,
+      56500,
+      12340,
+      65430,
+      21500    ],
+    "utilised_amount_verified": [
+      36368,
+      56500,
+      12340,
+      65430,
+      21500    ],
+    "utilised_amount_not_verified": [
+      36368,
+      56500,
+      12340,
+      65430,
+      21500    ]
+  },
+  "document_pending_for_approval": [
+    {
+      "sr_no": "01",
+      "name_of_the_document": "Expenses/Purchases",
+      "uploaded_on": "29-06-2022",
+      "pending_with": "Raj Sheth"
+    },
+    {
+      "sr_no": "02",
+      "name_of_the_document": "TDS Payments",
+      "uploaded_on": "29-06-2022",
+      "pending_with": "Raj Sheth"
+    },
+    {
+      "sr_no": "03",
+      "name_of_the_document": "TDS Payments",
+      "uploaded_on": "29-06-2022",
+      "pending_with": "Raj Sheth"
+    },
+    {
+      "sr_no": "04",
+      "name_of_the_document": "Expenses/Purchases",
+      "uploaded_on": "29-06-2022",
+      "pending_with": "Raj Sheth"
+    },
+    {
+      "sr_no": "05",
+      "name_of_the_document": "Expenses/Purchases",
+      "uploaded_on": "29-06-2022",
+      "pending_with": "Raj Sheth"
+    }
+  ]
+}
